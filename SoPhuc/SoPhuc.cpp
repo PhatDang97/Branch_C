@@ -6,7 +6,7 @@
 
 using namespace std;
 class SoPhuc
-{
+{ 
 private:
 float PhanThuc;
 float PhanAo;
